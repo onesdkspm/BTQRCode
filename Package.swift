@@ -16,8 +16,8 @@ let package = Package(
         // ========== Binary Frameworks ==========
         .binaryTarget(
             name: "BTQRCode",
-            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/BTQRCode/2.0.2/BTQRCode.xcframework.zip",
-            checksum: "c6d500b40c86235afd61810a25a5120046d60bb26d5fcdf0ab1e0422657479c8"
+            url: "https://yw-depot-nexus.100bt.com/repository/onesdk-ios-trunk/spm/BTQRCode/2.0.3/BTQRCode.xcframework.zip",
+            checksum: "abcc26fe0f27872945da177aad2406e923b1e17f4d8d6f3463796e0430977631"
         ),
         
         // ========== Bundle Resources ==========
